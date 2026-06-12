@@ -7,6 +7,7 @@ Amanda Villar Moura | 2023278
 Murilo Basilio Côrtes | 2066677
 Felipe Ribeiro Silva |  2028059
 Isabella Machado 2031107
+Felipe Traskini Rocha | 2028148
 
 Descrição
 
