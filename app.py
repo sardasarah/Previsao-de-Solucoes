@@ -25,7 +25,7 @@ st.write(
 nome_tecnico = st.text_input(
     "Nome do Técnico"
 )
-DATASET_PATH = "dataset/dataset-limpo3.csv"
+DATASET_PATH = "dataset-limpo4 (1).csv"
 FEEDBACK_PATH = "feedbacks.csv"
 
 if not os.path.exists(FEEDBACK_PATH):
