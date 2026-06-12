@@ -1,5 +1,10 @@
 # Previsão de defeitos constatados
 Sistema Inteligente de Recomendação de Soluções para Defeitos Técnicos
+Alunos:
+Sarah Costa | 2041365
+Amanda Villar Moura | 2023278
+Murilo Basilio Côrtes | 2066677
+Felipe Ribeiro Silva |  2028059
 
 Descrição
 
