@@ -63,6 +63,7 @@ Vazamento de água| Limpeza da tubulação
 
 # Como utilizar esse projeto em sua máquina
 - Garanta a instalação de todas as bibliotecas conforme or equirements
+- Baixe o arquivo da limpeza de dados o arquivo dataset-limpo2, faça o upload desse arquivo no Colab, lá será feito a limpeza dos dados e futura exportação do dataset.
 - Baixe o arquivo app.py
 - Cole em algum leitor de código
 - Execute o código
