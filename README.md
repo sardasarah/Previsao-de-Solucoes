@@ -52,3 +52,11 @@ Defeito| Solução
 Refrigerador não gela| Substituição do termostato
 Motor não liga| Troca do capacitor
 Vazamento de água| Limpeza da tubulação
+
+# Como utilizar esse projeto em sua máquina
+- Garanta a instalação de todas as bibliotecas conforme or equirements
+- Baixe o arquivo app.py
+- Cole em algum leitor de código
+- Execute o código
+- Escreva "streamlit run app.py" caso esteja no VSCode no terminal
+- O aplicativo será aberto em uma nova guia
