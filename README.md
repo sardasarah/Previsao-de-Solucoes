@@ -11,7 +11,7 @@ Felipe Traskini Rocha | 2028148
 
 Descrição
 
-Este projeto consiste em um sistema de recomendação baseado em Inteligência Artificial capaz de sugerir soluções para defeitos técnicos em produtos da linha branca, como refrigeradores, lavadoras e freezers.
+Este projeto consiste em um sistema de recomendação baseado em Inteligência Artificial capaz de sugerir soluções para defeitos técnicos em produtos da linha branca, como refrigeradores, máquina de café, etc.
 
 A partir da descrição de um defeito fornecida pelo usuário, o sistema realiza uma busca por registros semelhantes em uma base histórica de atendimentos técnicos e retorna as três soluções mais relevantes encontradas.
 
@@ -34,6 +34,7 @@ Tecnologias Utilizadas
 - Sentence Transformers
 - Google Colab
 - VS Code
+- Streamlit
 
 ---
 
@@ -47,6 +48,7 @@ O fluxo do sistema ocorre da seguinte forma:
 4. É calculada a similaridade entre os vetores.
 5. Os registros mais semelhantes são identificados.
 6. As três soluções mais relevantes são retornadas ao usuário.
+7. É possível gerar um relatório com os resultados e as métricas do modelo e baixá-lo em PDF.
 
 ---
 
@@ -66,5 +68,6 @@ Vazamento de água| Limpeza da tubulação
 - Baixe o arquivo app.py
 - Cole em algum leitor de código
 - Execute o código
-- Escreva "streamlit run app.py" caso esteja no VSCode no terminal
+- Escreva "streamlit run app.py" caso esteja no VSCode, no terminal
 - O aplicativo será aberto em uma nova guia
+- Ou clique no link para acessar o aplicativo publicado no Streamlit
