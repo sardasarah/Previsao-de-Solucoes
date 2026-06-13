@@ -71,3 +71,4 @@ Vazamento de água| Limpeza da tubulação
 - Escreva "streamlit run app.py" caso esteja no VSCode, no terminal
 - O aplicativo será aberto em uma nova guia
 - Ou clique no link para acessar o aplicativo publicado no Streamlit
+- O arquivo em .ipynb representa o código gerado no Google Colab caso deseje gerar o dataset limpo, mas o dataset correto já está disponível para download
